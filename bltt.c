@@ -1,9 +1,9 @@
 #include "shell.h"
 
 /**
- * exist_sh - exit shell cmd
+ * exist_sts - exit shell cmd.
  * @feed: Structure containing constant function prototype.
- * Return: Respective exit status
+ * Return: Respective exit status.
  */
 int exist_sts(pseuarg_ch *feed)
 {
